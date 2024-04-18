@@ -23,6 +23,8 @@ Commands: securenet install all to install in every script on server it will mak
 
 Check protip.txt to make your server even more secure
 
+Discord: https://discord.gg/mEzH2MvDzd
+
 
 🔐 Why code of server-side script is obsfucated?
  
