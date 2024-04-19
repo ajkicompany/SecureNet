@@ -1,0 +1,1 @@
+SecureNet.discordwebhook = '' -- your webhook for bans,ss logs
